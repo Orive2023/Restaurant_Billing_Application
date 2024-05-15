@@ -56,7 +56,7 @@ function Login() {
                     </div>
                   </div>
                   <form action="#">
-                    <div className="row gy-3 gy-md-6 overflow-hidden">
+                    <div className="row gy-1 gy-md-2 overflow-hidden">
                       <div className="data-login">
                         <label className="login-label">Username or Email</label>
                         <TextField
