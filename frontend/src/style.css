@@ -117,3 +117,15 @@ section {
     width: 100%;
   }
 }
+
+@media (min-width: 993px) {
+  .left-login,
+  .right-login {
+    /* flex: 1 1 100%; */
+    max-width: 100%;
+  }
+
+  .data-login {
+    width: 100%;
+  }
+}
